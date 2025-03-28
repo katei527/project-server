@@ -1,9 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "hilly-terrain": {
+        "gears": "6-speed",
+        "fluid": "Synthetic ATF",
+        "clutch": "Heavy-duty Clutch"
+    },
+    "flat-terrain": {
+        "gears": "5-speed",
+        "fluid": "Dexron III",
+        "clutch": "Standard Clutch"
+    },
+    "muddy": {
+        "gears": "CVT",
+        "fluid": "CVT Fluid",
+        "clutch": "Off-road Clutch"
+    },
+    "highway": {
+        "gears": "8-speed",
+        "fluid": "Mercon V",
+        "clutch": "Performance Clutch"
+    },
+    "heavy-load": {
+        "gears": "6-speed",
+        "fluid": "Heavy-Duty Gear Oil",
+        "clutch": "Reinforced Clutch"
+    }
 }
